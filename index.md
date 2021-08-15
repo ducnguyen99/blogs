@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Duc Pages
 
 You can use the [editor on GitHub](https://github.com/ducnguyen99/blogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
